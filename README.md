@@ -15,7 +15,7 @@ Weekly schedule
 
 | Assignment | Due
 :---|:-------|
-|[]()  | Feb 27, 12:00|
+|[Semantics](https://classroom.github.com/a/UlOiLAjU)  | Feb 27, 12:00|
 
 
 </details>
