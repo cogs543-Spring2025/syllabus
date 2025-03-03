@@ -15,8 +15,9 @@ Weekly schedule
 
 | Assignment | Due
 :---|:-------|
-|[Semantics](https://classroom.github.com/a/UlOiLAjU)  | Feb 27, 12:00|
-
+|[Semantics](https://classroom.github.com/a/UlOiLAjU)  | Feb. 27, 12:00|
+|[Connectives](https://classroom.github.com/a/x2yefAHA)  | Mar. 5, 10:00|
+|[Quantifiers](https://classroom.github.com/a/tWbgpc9e)  | Mar. 12, 09:00|
 
 </details>
 
