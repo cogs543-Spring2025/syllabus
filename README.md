@@ -19,6 +19,7 @@ Weekly schedule
 |[Connectives](https://classroom.github.com/a/x2yefAHA)  | Mar. 5, 10:00|
 |[Quantifiers](https://classroom.github.com/a/tWbgpc9e)  | Mar. 12, 09:00|
 |[Composition](https://classroom.github.com/a/OjDHiVN0)  | Mar. 19, 10:00|
+|[Lambda Calculus](https://classroom.github.com/a/Gwgq6Xz9)  | Mar. 26, 10:00|
 
 </details>
 
