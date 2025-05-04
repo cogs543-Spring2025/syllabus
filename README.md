@@ -2,7 +2,7 @@ COGS 543 -- Computational Semantics (METU CogSci) -- Spring 2025
 ----------------------------------------------------------------
 
 
-[Umut Özge](mailto:umozge@metu.edu.tr), [İlteriş Bozkurt](mailto:ilte9605@gmail.com) (TA)
+[Umut Özge](mailto:umozge@metu.edu.tr), [İlteriş Bozkurt](mailto:ilteris@metu.edu.tr) (TA)
 
 ```
 Wednesdays 🕐 14:40 @Informatics Institute S06
@@ -15,11 +15,14 @@ Weekly schedule
 
 | Assignment | Due
 :---|:-------|
-|[Semantics](https://classroom.github.com/a/UlOiLAjU)  | Feb. 27, 12:00|
-|[Connectives](https://classroom.github.com/a/x2yefAHA)  | Mar. 5, 10:00|
-|[Quantifiers](https://classroom.github.com/a/tWbgpc9e)  | Mar. 12, 09:00|
-|[Composition](https://classroom.github.com/a/OjDHiVN0)  | Mar. 19, 10:00|
-|[Lambda Calculus](https://classroom.github.com/a/Gwgq6Xz9)  | Mar. 26, 10:00|
+|[Semantics](https://classroom.github.com/a/UlOiLAjU)  |Feb. 27, 12:00|
+|[Connectives](https://classroom.github.com/a/x2yefAHA)  |Mar. 5, 10:00|
+|[Quantifiers](https://classroom.github.com/a/tWbgpc9e)  |Mar. 12, 09:00|
+|[Composition](https://classroom.github.com/a/OjDHiVN0)  |Mar. 19, 10:00|
+|[Lambda Calculus](https://classroom.github.com/a/Gwgq6Xz9)  |Mar. 26, 10:00|
+|[Installing smallworld](https://odtuclass2024s.metu.edu.tr/mod/assign/view.php?id=77312)  |Apr. 16, 14:30|
+|[GQT I](https://classroom.github.com/a/8BY96uvu)  |Apr. 23, 10:00|
+|[GQT II](https://classroom.github.com/a/MF9b-bBx)  |TBA|
 
 </details>
 
