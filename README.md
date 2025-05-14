@@ -22,7 +22,7 @@ Weekly schedule
 |[Lambda Calculus](https://classroom.github.com/a/Gwgq6Xz9)  |Mar. 26, 10:00|
 |[Installing smallworld](https://odtuclass2024s.metu.edu.tr/mod/assign/view.php?id=77312)  |Apr. 16, 14:30|
 |[GQT I](https://classroom.github.com/a/8BY96uvu)  |Apr. 23, 10:00|
-|[GQT II](https://classroom.github.com/a/MF9b-bBx)  |TBA|
+|[GQT II](https://classroom.github.com/a/MF9b-bBx)  |May 14, 14:30|
 
 </details>
 
